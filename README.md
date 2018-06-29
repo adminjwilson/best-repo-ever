@@ -1,3 +1,3 @@
 # best-repo-ever
 test text goes here
-change for branch 2
+final change of text to resolve conflict
